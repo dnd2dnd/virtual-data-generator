@@ -1,6 +1,6 @@
 # virtual-data-generator
 ## 개요
-move-modeling에서 사용할 수 있는 가상의 데이터를 생성해주는 것 입니다.
+[move-modeling](https://github.com/tkfdkskarl56/move-modeling) 에서 사용할 수 있는 가상의 데이터를 생성해주는 것 입니다.
 
 ## 환경
 ```
